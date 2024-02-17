@@ -1,0 +1,48 @@
+PROBLEMA 1 
+El tamaño de cada paso P es la distancia entre los talones de dos huellas consecutivas.
+Para los hombres, la fórmula n/P=140, nos da una relación aproximada entre n y P donde,
+n = número de pasos por minuto y P = el tamaño del paso en metros. 
+Si aplicamos la fórmula a Héctor que da 70 pasos por minuto, ¿cuál es el tamaño de los pasos de Héctor? 
+
+
+PROBLEMA 2
+Se transmitió un documental por televisión acerca de los terremotos y la frecuencia con que ocurren. 
+En él se incluyó una discusión sobre la posibilidad de predecir los terremotos.
+Un geólogo afirmó: “Durante los próximos veinte años, la probabilidad de que ocurra un terremoto en la Ciudad de Zed
+es dos de tres.”¿Cuál de las siguientes afirmaciones refleja, de mejor manera, el significado de la afirmación del geólogo?
+A) 2/3 x 20= 13.3, de modo que, dentro de 13 o 14 años a partir de esta fecha habrá un terremoto en la Ciudad de Zed.
+B) 2/3 es mayor que 1/2, de modo que se puede estar seguro que habrá un terremoto en la Ciudad de Zed en algún momento dentro de 
+   los próximos 20 años.
+C) La probabilidad de que haya un terremoto en la Ciudad de Zed en algún momento durante los próximos 20 años es más alta que la 
+   probabilidad de que no haya un terremoto.
+D) No se puede decir qué va a pasar, porque nadie puede estar seguro de cuándo habrá un terremoto. 
+
+
+PROBLEMA 3
+Mei-Ling, de Singapur, se estaba preparando para viajar a Sudáfrica durante 3 meses como participante en un intercambio 
+estudiantil. Necesitó cambiar dólares de Singapur (SGD) a rands de Sudáfrica (ZAR). 
+Mei-Ling encontró que el tipo de cambio entre los dólares de Singapur y los rands de Sudáfrica era:
+1 SGD = 4.2 ZAR
+
+Mei-Ling cambió 3000 dólares de Singapur a rands sudafricanos a este tipo de cambio.
+¿Cuánto dinero en rands sudafricanos recibió Mei-Ling?
+
+
+PROBLEMA 4
+Al regresar a Singapur después de 3 meses, Mei-Ling tenía 3 900 ZAR. Los cambió de nuevo a dólares de Singapur y se dio 
+cuenta de que había un nuevo tipo de cambio:
+1 SGD = 4.0 ZAR
+¿Cuánto dinero en dólares de Singapur recibió Mei-Ling? 
+
+
+PROBLEMA 5
+En Zedlandia, se llevaron al cabo encuestas de opinión para conocer el nivel de popularidad del Presidente con motivo de 
+la próxima elección. Cuatro periódicos hicieron, cada uno, su propia encuesta a nivel nacional. Los resultados de las cuatro
+encuestas se muestran abajo:
+
+Periódico 1: 36.5% (encuesta realizada el 6 de enero, con una muestra de 500 ciudadanos con derecho a voto, seleccionados al azar).
+Periódico 2: 41.0% (encuesta realizada el 20 de enero, con una muestra de 500 ciudadanos con derecho a voto, seleccionados al azar).
+Periódico 3: 39.0% (encuesta realizada el 20 de enero, con una muestra de 1000 ciudadanos con derecho a voto, seleccionados al azar).
+Periódico 4: 44.5% (encuesta realizada el 20 de enero, con 1000 lectores que llamaron por teléfono para votar).
+
+¿Qué resultado tiene mayor probabilidad de ser el mejor para predecir el nivel de popularidad del Presidente si la elección se lleva al cabo el 25 de enero?
